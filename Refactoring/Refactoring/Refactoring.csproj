@@ -46,6 +46,8 @@
     <Compile Include="ComposingMethods\InlineMethod\After.cs" />
     <Compile Include="ComposingMethods\InlineMethod\Before.cs" />
     <Compile Include="ComposingMethods\InlineTemp\Before.cs" />
+    <Compile Include="ComposingMethods\ReplaceTempWithQuery\After.cs" />
+    <Compile Include="ComposingMethods\ReplaceTempWithQuery\Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
