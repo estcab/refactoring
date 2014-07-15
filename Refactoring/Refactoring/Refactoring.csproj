@@ -50,6 +50,10 @@
     <Compile Include="ComposingMethods\InlineTemp\Before.cs" />
     <Compile Include="ComposingMethods\ReplaceTempWithQuery\After.cs" />
     <Compile Include="ComposingMethods\ReplaceTempWithQuery\Before.cs" />
+    <Compile Include="ComposingMethods\SplitTemporaryVariable\After.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
