@@ -42,6 +42,8 @@
     <Compile Include="ComposingMethods\ExtractMethod\After.cs" />
     <Compile Include="ComposingMethods\ExtractMethod\Before.cs" />
     <Compile Include="ComposingMethods\InlineTemp\After.cs" />
+    <Compile Include="ComposingMethods\IntroduceExplainingVariable\After.cs" />
+    <Compile Include="ComposingMethods\IntroduceExplainingVariable\Before.cs" />
     <Compile Include="ComposingMethods\Order.cs" />
     <Compile Include="ComposingMethods\InlineMethod\After.cs" />
     <Compile Include="ComposingMethods\InlineMethod\Before.cs" />
