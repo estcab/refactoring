@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Refactoring.ComposingMethods.InlineMethod
+﻿namespace Refactoring.ComposingMethods.InlineMethod
 {
     public class After
     {
