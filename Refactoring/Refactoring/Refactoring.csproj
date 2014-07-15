@@ -42,6 +42,8 @@
     <Compile Include="ComposingMethods\ExtractMethod\After.cs" />
     <Compile Include="ComposingMethods\ExtractMethod\Before.cs" />
     <Compile Include="ComposingMethods\ExtractMethod\Order.cs" />
+    <Compile Include="ComposingMethods\InlineMethod\After.cs" />
+    <Compile Include="ComposingMethods\InlineMethod\Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
