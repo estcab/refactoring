@@ -48,6 +48,11 @@
     <Compile Include="ComposingMethods\InlineMethod\After.cs" />
     <Compile Include="ComposingMethods\InlineMethod\Before.cs" />
     <Compile Include="ComposingMethods\InlineTemp\Before.cs" />
+    <Compile Include="ComposingMethods\ReplaceMethodWithMethodObject\After.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComposingMethods\ReplaceMethodWithMethodObject\Before.cs" />
+    <Compile Include="ComposingMethods\ReplaceMethodWithMethodObject\Gamma.cs" />
     <Compile Include="ComposingMethods\ReplaceTempWithQuery\After.cs" />
     <Compile Include="ComposingMethods\ReplaceTempWithQuery\Before.cs" />
     <Compile Include="ComposingMethods\SplitTemporaryVariable\After.cs">
