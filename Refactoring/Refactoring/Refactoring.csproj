@@ -59,6 +59,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MovingFeatures\ExtractClass\PersonAfter.cs" />
+    <Compile Include="MovingFeatures\ExtractClass\PersonBefore.cs" />
+    <Compile Include="MovingFeatures\ExtractClass\TelephoneNumberAfter.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MovingFeatures\MoveField\AccountAfter.cs" />
     <Compile Include="MovingFeatures\MoveField\AccountBefore.cs" />
     <Compile Include="MovingFeatures\MoveMethod\AccountAfter.cs" />
