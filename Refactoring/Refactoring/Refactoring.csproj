@@ -59,6 +59,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MovingFeatures\MoveMethod\AccountAfter.cs" />
+    <Compile Include="MovingFeatures\MoveMethod\AccountBefore.cs" />
+    <Compile Include="MovingFeatures\MoveMethod\AccountTypeAfter.cs" />
+    <Compile Include="MovingFeatures\MoveMethod\AccountTypeBefore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
