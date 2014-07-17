@@ -70,6 +70,8 @@
     <Compile Include="MovingFeatures\HideDelegate\Before\Client.cs" />
     <Compile Include="MovingFeatures\HideDelegate\Before\Department.cs" />
     <Compile Include="MovingFeatures\HideDelegate\Before\Person.cs" />
+    <Compile Include="MovingFeatures\IntroduceForeignMethod\After.cs" />
+    <Compile Include="MovingFeatures\IntroduceForeignMethod\Before.cs" />
     <Compile Include="MovingFeatures\MoveField\AccountAfter.cs" />
     <Compile Include="MovingFeatures\MoveField\AccountBefore.cs" />
     <Compile Include="MovingFeatures\MoveMethod\AccountAfter.cs" />
