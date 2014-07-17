@@ -76,6 +76,12 @@
     <Compile Include="MovingFeatures\MoveMethod\AccountBefore.cs" />
     <Compile Include="MovingFeatures\MoveMethod\AccountTypeAfter.cs" />
     <Compile Include="MovingFeatures\MoveMethod\AccountTypeBefore.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\After\Client.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\After\Department.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\After\Person.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Client.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Department.cs" />
+    <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
