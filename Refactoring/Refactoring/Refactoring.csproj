@@ -64,6 +64,12 @@
     <Compile Include="MovingFeatures\ExtractClass\TelephoneNumberAfter.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MovingFeatures\HideDelegate\After\Client.cs" />
+    <Compile Include="MovingFeatures\HideDelegate\After\Department.cs" />
+    <Compile Include="MovingFeatures\HideDelegate\After\Person.cs" />
+    <Compile Include="MovingFeatures\HideDelegate\Before\Client.cs" />
+    <Compile Include="MovingFeatures\HideDelegate\Before\Department.cs" />
+    <Compile Include="MovingFeatures\HideDelegate\Before\Person.cs" />
     <Compile Include="MovingFeatures\MoveField\AccountAfter.cs" />
     <Compile Include="MovingFeatures\MoveField\AccountBefore.cs" />
     <Compile Include="MovingFeatures\MoveMethod\AccountAfter.cs" />
