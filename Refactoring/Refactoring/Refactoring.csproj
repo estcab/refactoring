@@ -87,6 +87,9 @@
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Client.cs" />
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Department.cs" />
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Person.cs" />
+    <Compile Include="OrganizingData\SelfEncapsulateField\CappedRangeAfter.cs" />
+    <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeAfter.cs" />
+    <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeBefore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
