@@ -87,6 +87,12 @@
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Client.cs" />
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Department.cs" />
     <Compile Include="MovingFeatures\RemoveMiddleMan\Before\Person.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\After\Client.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\After\Customer.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\After\Order.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\Before\Client.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\Before\Customer.cs" />
+    <Compile Include="OrganizingData\ChangeValueToReference\Before\Order.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Client.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Customer.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Order.cs" />
