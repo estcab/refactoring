@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Refactoring.OrganizingData.ChangeReferenceToValue
+﻿namespace Refactoring.OrganizingData.ChangeReferenceToValue
 {
     public class CurrencyAfter
     {

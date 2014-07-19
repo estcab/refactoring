@@ -95,6 +95,9 @@
     <Compile Include="OrganizingData\ChangeValueToReference\Before\Client.cs" />
     <Compile Include="OrganizingData\ChangeValueToReference\Before\Customer.cs" />
     <Compile Include="OrganizingData\ChangeValueToReference\Before\Order.cs" />
+    <Compile Include="OrganizingData\ReplaceArrayWithObject\After.cs" />
+    <Compile Include="OrganizingData\ReplaceArrayWithObject\Before.cs" />
+    <Compile Include="OrganizingData\ReplaceArrayWithObject\Performance.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Client.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Customer.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Order.cs" />
