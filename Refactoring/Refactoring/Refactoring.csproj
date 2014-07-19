@@ -103,6 +103,8 @@
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\After\Order.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\Before\Client.cs" />
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\Before\Order.cs" />
+    <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\After.cs" />
+    <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\Before.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\CappedRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeBefore.cs" />
