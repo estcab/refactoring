@@ -107,6 +107,9 @@
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\Before\Order.cs" />
     <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\After.cs" />
     <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\Before.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\BloodGroup.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\Person.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\Before\Person.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\CappedRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeBefore.cs" />
