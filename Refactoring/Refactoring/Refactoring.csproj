@@ -107,6 +107,10 @@
     <Compile Include="OrganizingData\ReplaceDataValueWithObject\Before\Order.cs" />
     <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\After.cs" />
     <Compile Include="OrganizingData\ReplaceMagicNumberWithSymbolicConstant\Before.cs" />
+    <Compile Include="OrganizingData\ReplaceSubclassWithFields\After\Person.cs" />
+    <Compile Include="OrganizingData\ReplaceSubclassWithFields\Before\Female.cs" />
+    <Compile Include="OrganizingData\ReplaceSubclassWithFields\Before\Male.cs" />
+    <Compile Include="OrganizingData\ReplaceSubclassWithFields\Before\Person.cs" />
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\BloodGroup.cs" />
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\Person.cs" />
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\Before\Person.cs" />
