@@ -110,6 +110,12 @@
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\BloodGroup.cs" />
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\After\Person.cs" />
     <Compile Include="OrganizingData\ReplaceTypeCodeWithClass\Before\Person.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\After\Employee.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\After\EmployeeType.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\After\Engineer.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\After\Manager.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\After\Salesman.cs" />
+    <Compile Include="OrganizingData\ReplaceTypeCodeWithSubclasses\Before\Employee.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\CappedRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeBefore.cs" />
