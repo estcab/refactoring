@@ -130,6 +130,8 @@
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeAfter.cs" />
     <Compile Include="OrganizingData\SelfEncapsulateField\IntRangeBefore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ConsolidateConditionalExpression\After.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ConsolidateConditionalExpression\Before.cs" />
     <Compile Include="SimplifyingConditionalExpressions\DecomposeConditional\After.cs" />
     <Compile Include="SimplifyingConditionalExpressions\DecomposeConditional\Before.cs" />
   </ItemGroup>
