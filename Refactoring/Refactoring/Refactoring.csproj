@@ -136,6 +136,10 @@
     <Compile Include="SimplifyingConditionalExpressions\ConsolidateDuplicateConditionalFragments\Before.cs" />
     <Compile Include="SimplifyingConditionalExpressions\DecomposeConditional\After.cs" />
     <Compile Include="SimplifyingConditionalExpressions\DecomposeConditional\Before.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\ReplacedWithBreak\After.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\ReplacedWithBreak\Before.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\UsingReturn\After.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\UsingReturn\Before.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
