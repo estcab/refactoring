@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Refactoring.SimplifyingConditionalExpressions.ReplaceConditionalWithPolymorphism.After
+﻿namespace Refactoring.SimplifyingConditionalExpressions.ReplaceConditionalWithPolymorphism.After
 {
     public class Engineer : EmployeeType
     {
