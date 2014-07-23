@@ -140,6 +140,16 @@
     <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\ReplacedWithBreak\Before.cs" />
     <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\UsingReturn\After.cs" />
     <Compile Include="SimplifyingConditionalExpressions\RemoveControlFlag\UsingReturn\Before.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\After\Employee.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\After\EmployeeType.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\After\Engineer.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\After\Manager.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\After\Salesman.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\Before\Employee.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\Before\EmployeeType.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\Before\Engineer.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\Before\Manager.cs" />
+    <Compile Include="SimplifyingConditionalExpressions\ReplaceConditionalWithPolymorphism\Before\Salesman.cs" />
     <Compile Include="SimplifyingConditionalExpressions\ReplaceNestedConditionalWithGuardClauses\After.cs" />
     <Compile Include="SimplifyingConditionalExpressions\ReplaceNestedConditionalWithGuardClauses\Before.cs" />
   </ItemGroup>
