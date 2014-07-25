@@ -61,6 +61,8 @@
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\After.cs" />
+    <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\Before.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonAfter.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonBefore.cs" />
     <Compile Include="MovingFeatures\ExtractClass\TelephoneNumberAfter.cs">
