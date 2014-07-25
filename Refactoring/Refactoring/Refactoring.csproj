@@ -59,6 +59,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
+    <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonAfter.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonBefore.cs" />
     <Compile Include="MovingFeatures\ExtractClass\TelephoneNumberAfter.cs">
