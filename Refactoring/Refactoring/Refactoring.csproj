@@ -59,6 +59,13 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\Account.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\Client.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\DateRange.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\Entry.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\Before\Account.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\Before\Client.cs" />
+    <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\Before\Entry.cs" />
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Dollars.cs" />
