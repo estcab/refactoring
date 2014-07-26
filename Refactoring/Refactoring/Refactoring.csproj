@@ -64,6 +64,14 @@
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Dollars.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Employee.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Engineer.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Manager.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Salesman.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Employee.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Engineer.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Manager.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Salesman.cs" />
     <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\Before.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonAfter.cs" />
