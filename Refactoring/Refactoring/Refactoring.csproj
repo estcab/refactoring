@@ -62,6 +62,12 @@
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Dollars.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\After\HeatingPlan.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\After\Room.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\After\TempRange.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\Before\HeatingPlan.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\Before\Room.cs" />
+    <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\Before\TempRange.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Employee.cs" />
