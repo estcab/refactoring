@@ -59,6 +59,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\After.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ParameterizeMethod\Dollars.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\After.cs" />
