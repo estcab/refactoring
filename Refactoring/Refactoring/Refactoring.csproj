@@ -78,6 +78,8 @@
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Engineer.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Manager.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\Before\Salesman.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithMethod\After.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\SeparateQueryFromModifier\Before.cs" />
     <Compile Include="MovingFeatures\ExtractClass\PersonAfter.cs" />
