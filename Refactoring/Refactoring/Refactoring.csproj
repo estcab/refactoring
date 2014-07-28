@@ -59,6 +59,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComposingMethods\SplitTemporaryVariable\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\After.cs" />
+    <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Reading.cs" />
     <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\Account.cs" />
     <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\Client.cs" />
     <Compile Include="MakingMethodCallsSimpler\IntroduceParameterObject\After\DateRange.cs" />
