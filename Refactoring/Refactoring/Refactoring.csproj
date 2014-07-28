@@ -83,6 +83,12 @@
     <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeAfterGeneric.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeAfter.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeBefore.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\Before\Account.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\CheckedException\Account.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\CheckedException\BalanceException.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\CheckedException\Client.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\UncheckedException\Account.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\UncheckedException\Client.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Employee.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Engineer.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Manager.cs" />
