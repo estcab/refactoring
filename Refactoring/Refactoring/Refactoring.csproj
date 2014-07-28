@@ -77,6 +77,9 @@
     <Compile Include="MakingMethodCallsSimpler\PreserveWholeObject\Before\TempRange.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\RenameMethod\Before.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeAfterGeneric.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeAfter.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceConstructorWithFactoryMethod\EmployeeBefore.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Employee.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Engineer.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Manager.cs" />
