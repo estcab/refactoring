@@ -89,6 +89,10 @@
     <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\CheckedException\Client.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\UncheckedException\Account.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceErrorCodeWithException\UncheckedException\Client.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceExceptionWithTest\EmptyStackException.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceExceptionWithTest\Resource.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceExceptionWithTest\ResourcePoolAfter.cs" />
+    <Compile Include="MakingMethodCallsSimpler\ReplaceExceptionWithTest\ResourcePoolBefore.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Employee.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Engineer.cs" />
     <Compile Include="MakingMethodCallsSimpler\ReplaceParameterWithExplicitMethods\After\Manager.cs" />
