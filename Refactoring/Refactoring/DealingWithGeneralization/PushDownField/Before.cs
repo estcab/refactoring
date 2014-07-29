@@ -1,9 +1,10 @@
 ﻿// ReSharper disable once CheckNamespace
 
-namespace Refactoring.DealingWithGeneralization.PushDownMethod.After
+namespace Refactoring.DealingWithGeneralization.PushDownField.Before
 {
     class Employee
     {
+        public double Quota;
     }
 
     class Manager : Employee
@@ -12,9 +13,5 @@ namespace Refactoring.DealingWithGeneralization.PushDownMethod.After
 
     class Salesman : Employee
     {
-        public double GetCuota()
-        {
-            return 100.0;
-        }
     }
 }

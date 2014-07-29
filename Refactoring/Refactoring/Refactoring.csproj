@@ -65,8 +65,8 @@
     <Compile Include="DealingWithGeneralization\PullUpField\Before.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\After.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\Before.cs" />
-    <Compile Include="DealingWithGeneralization\PushDownMethod\After.cs" />
-    <Compile Include="DealingWithGeneralization\PushDownMethod\Before.cs" />
+    <Compile Include="DealingWithGeneralization\PushDownField\After.cs" />
+    <Compile Include="DealingWithGeneralization\PushDownField\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Reading.cs" />
@@ -222,7 +222,9 @@
     <Compile Include="SimplifyingConditionalExpressions\ReplaceNestedConditionalWithGuardClauses\After.cs" />
     <Compile Include="SimplifyingConditionalExpressions\ReplaceNestedConditionalWithGuardClauses\Before.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="DealingWithGeneralization\PushDownMethod\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
