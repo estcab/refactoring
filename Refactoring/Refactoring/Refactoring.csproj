@@ -65,6 +65,8 @@
     <Compile Include="DealingWithGeneralization\PullUpField\Before.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\After.cs" />
     <Compile Include="DealingWithGeneralization\PullUpMethod\Before.cs" />
+    <Compile Include="DealingWithGeneralization\PushDownMethod\After.cs" />
+    <Compile Include="DealingWithGeneralization\PushDownMethod\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\After.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\Reading.cs" />
