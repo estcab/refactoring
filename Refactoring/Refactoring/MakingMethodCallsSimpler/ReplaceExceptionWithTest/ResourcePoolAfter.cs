@@ -10,8 +10,8 @@ namespace Refactoring.MakingMethodCallsSimpler.ReplaceExceptionWithTest
 
         public ResourcePoolAfter()
         {
-            _allocated = new Stack();
-            _available = new Stack();
+            _allocated = new Stack<Resource>();
+            _available = new Stack<Resource>();
         }
 
         public Resource GetResource()

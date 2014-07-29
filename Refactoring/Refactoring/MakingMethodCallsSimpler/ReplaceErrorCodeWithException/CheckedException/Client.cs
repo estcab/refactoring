@@ -24,12 +24,12 @@
 
         private void DoTheUsualThing()
         {
-            throw new NotImplementedException();
+            //  ...
         }
 
         private void HandleOverdrawn()
         {
-            throw new NotImplementedException();
+            // ...
         }
     }
 }
