@@ -65,6 +65,11 @@
     <Compile Include="DealingWithGeneralization\ExtractSubclass\After\PartItem.cs" />
     <Compile Include="DealingWithGeneralization\ExtractSubclass\Before\Employee.cs" />
     <Compile Include="DealingWithGeneralization\ExtractSubclass\Before\JobItem.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSuperclass\After\Department.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSuperclass\After\Employee.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSuperclass\After\Party.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSuperclass\Before\Department.cs" />
+    <Compile Include="DealingWithGeneralization\ExtractSuperclass\Before\Employee.cs" />
     <Compile Include="DealingWithGeneralization\PullUpConstructorBody\After.cs" />
     <Compile Include="DealingWithGeneralization\PullUpConstructorBody\Before.cs" />
     <Compile Include="DealingWithGeneralization\PullUpField\After.cs" />
