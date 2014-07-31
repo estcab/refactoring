@@ -77,6 +77,15 @@
     <Compile Include="DealingWithGeneralization\ExtractSuperclass\After\Party.cs" />
     <Compile Include="DealingWithGeneralization\ExtractSuperclass\Before\Department.cs" />
     <Compile Include="DealingWithGeneralization\ExtractSuperclass\Before\Employee.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\Customer.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\HtmlStatement.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\Movie.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\Rental.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\Statement.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\After\TextStatement.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\Before\Customer.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\Before\Movie.cs" />
+    <Compile Include="DealingWithGeneralization\FormTemplateMethod\Before\Rental.cs" />
     <Compile Include="DealingWithGeneralization\PullUpConstructorBody\After.cs" />
     <Compile Include="DealingWithGeneralization\PullUpConstructorBody\Before.cs" />
     <Compile Include="DealingWithGeneralization\PullUpField\After.cs" />
