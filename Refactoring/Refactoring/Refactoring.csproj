@@ -96,6 +96,8 @@
     <Compile Include="DealingWithGeneralization\PushDownField\Before.cs" />
     <Compile Include="DealingWithGeneralization\PushDownMethod\After.cs" />
     <Compile Include="DealingWithGeneralization\PushDownMethod\Before.cs" />
+    <Compile Include="DealingWithGeneralization\ReplaceDelegationWithInheritance\After.cs" />
+    <Compile Include="DealingWithGeneralization\ReplaceDelegationWithInheritance\Before.cs" />
     <Compile Include="DealingWithGeneralization\ReplaceInheritanceWithDelegation\After.cs" />
     <Compile Include="DealingWithGeneralization\ReplaceInheritanceWithDelegation\Before.cs" />
     <Compile Include="MakingMethodCallsSimpler\EncapsulateDowncast\After.cs" />
